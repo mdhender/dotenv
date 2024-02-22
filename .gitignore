@@ -1,0 +1,7 @@
+*~
+*.gz
+*.pdf
+*.swp
+*.zip
+.DS_Store
+.idea/
